@@ -1,0 +1,177 @@
+{
+    "settings": {
+        "icons" : true
+    },
+    "firstname": "Ruiyao",
+    "familyname": "Yao",
+    "linkedin_id": "Rye Yao",
+    "github_id": "ryeyao",
+    "bio_data": {
+        "email": "rye.y.cn@gmail.com",
+        "phone": "+86 182 1029 8098",
+        "website": "ryeyao.tk",
+        "stars": ["Java","JavaScript","Git","Python", "Linux C/C++"],
+	"summary": {
+		"points":[
+		"",
+		""
+		]
+	},
+        "github_projects": {
+            "details": [
+                {
+                    "project_name": "prat0318/2048-tetris",
+                    "tagline": "Live at [2048-tetris.com](http://2048-tetris.com)",
+                    "description": [
+                        "Wrote a Tetris variant of 2048 game, 1M+ unique visits",
+                        "Made it to the front page of Hacker News for a day(~150 pts), mentioned in TechCrunch."
+                    ]
+                },
+                {
+                    "project_name": "prat0318/gitator",
+                    "tagline": "Live at [Gitator.com](http://gitator.com)",
+                    "description": [
+                        "Finds relevant repositories based on an user's GitHub profile.",
+		    	"Written in Ruby on Sinatra and uses Github's Octokit gem"
+                    ]
+                },
+                {
+                    "project_name": "prat0318/json_resume",
+                    "tagline": "Convert JSON data to pretty resumes in .html, .tex, .md",
+                    "description": [
+                        "Static personal page and resume design using Mustache.",
+                        "Current resume is generated using json_resume."
+                    ]
+                }
+            ]
+        },
+        "skills": {
+            "details": [
+                {
+                    "type": "Programming Languages",
+                    "items": [
+                        "Java",
+                        "JavaScript",
+                        "Git",
+                        "C/C++",
+                        "Python"
+                    ]
+                }
+            ]
+        },
+        "education": {
+	        "show_gpa": false,
+            "schools": [
+                {
+                    "degree": "Master of Software Engineering",
+                    "major": "Software Engineering",
+                    "institution": "Peking University",
+                    "graduation_year": 2015,
+                    "gpa": "3.66/4"
+                },
+                {
+                    "degree": "Bachelor of Computer Science",
+                    "major": "Computer Science and Technology",
+                    "institution": "Henan University of Technology",
+                    "graduation_year": 2011,
+                    "gpa": ""
+                }
+            ]
+        },
+        "acad_achievements": {
+            "items": [
+                ""
+            ]
+        },
+        "experience": {
+            "items": [
+                {
+                    "title": "Computer Security Monitor System based on Indoor Positioning (application of IoT Supporting Platform)",
+                    "organisation": "Institute of Information Engineering, CAS",
+		    "location": "",
+                    "from": "",
+                    "to": "",
+                    "details": [
+                        "Assisted in software architecture design and directed the development and maintaining of major modules.",
+                        "Achievement Highlights: Cleaned and restructured about 100,000 history records from MySQL database for training and this together with a well designed feature vector increased the classification accuracy by 6%."
+                    ],
+                    "technology_used": {
+                        "tools": [
+                            "Java",
+                            "Python",
+                            "MySQL",
+                            "Weka"
+                        ]
+                    }
+                },
+                {
+                    "title": "Data Interface (message-oriented middleware of IoT Supporting Platform)",
+                    "organisation": "Institute of Information Engineering, CAS",
+		    "location": "",
+                    "from": "",
+                    "to": "",
+                    "details": [
+                        "Designed and implemented an HTTP-based data exchange protocol. Implemented a scalable data exchange service.",
+                        "Achievement Highlights: Reduced the code lines by about 50% and increased the concurrency rate by about 500%."
+                    ],
+                    "technology_used": {
+                        "tools": [
+                            "Java",
+                            "Python",
+                            "Nginx"
+                        ]
+                    }
+                },
+                {
+                    "title": "Live Video Streaming Service & Applications (video subsystem of IoT Supporting Platform)",
+                    "organisation": "Institute of Information Engineering, CAS",
+		    "location": "",
+                    "from": "",
+                    "to": "",
+                    "details": [
+                        "Designed software architecture. Took full charge of development and integration.",
+                        "Achievement Highlights: Started as a newbie with little experience in developing software and completed a stable version in three months. This service has been integrated into multiple internal projects."
+                    ],
+                    "technology_used": {
+                        "tools": [
+                            "C++",
+                            "ARM Linux"
+                        ]
+                    }
+                }
+            ]
+        },
+        "other_projects": {
+            "items": [
+                {
+                    "headline": "",
+                    "points": [
+                        "",
+                        ""
+                    ]
+                }                
+            ]
+        },
+        "grad_courses": [
+            {
+                "name": "Advanced Internet Programming",
+                "url": "https://github.com/ryeyao/AIP_PKUSSM"
+            },
+            {
+                "name": "Software Implementation Technology (Microsoft)",
+                "url": "https://github.com/ryeyao/GPS_With_Friends"
+            },
+            {
+                "name": "Advanced Operating System",
+                "url": "https://github.com/ryeyao/Nachos"
+            }
+         ]
+	],
+        "extra_curricular": {
+            "items": [
+                "Second class prize winner, Challenge Cup, Peking University",
+                "Financial aids awarded for outstanding intern performance, SKLOIS, IIE, CAS"
+            ]
+        }
+    }
+}
