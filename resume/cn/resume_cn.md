@@ -8,11 +8,11 @@ Java - JavaScript - Git - Python - Linux C/C++
 * [ryeyao/jerrymouse](http://github.com/ryeyao/jerrymouse) : [Jerrymouse](https://github.com/ryeyao/jerrymouse)
     - 阅读 Tomcat 源码期间所写的一个多线程 App 容器，仿照 Tomcat 通过类加载器隔离不同 App 的类的加载。
     - 包括从日常项目中抽取出来的一个简单网络请求处理框架。
-* [ryeyao/web-common](http://github.com/ryeyao/web-common) : [Web Common](https://github.com/ryeyao/jerrymouse)
+* [ryeyao/web-common](http://github.com/ryeyao/web-common) : [Web Common](https://github.com/ryeyao/web-common)
     - 从几个小Web项目中提取出来的一个通用 Node.js 开发框架
     - 提供一种 Web 服务端目录结构,以及简单的模块初始化机制。
 * [5tream/HomeAnywhere](http://github.com/5tream/HomeAnywhere) : [Home Anywhere](https://github.com/5tream/HomeAnywhere)
-    - 《Internet 高级编程》课程项目，项目实现了通过 RESTful 的接口控制物联网设备（智能小车）的需求。本人负责 系统架构及 Server 端实现。
+    - 《Internet 高级编程》课程项目，项目实现了通过 RESTful 的接口控制物联网设备（智能小车）的需求。本人负责系统架构及 Server 端实现。
     -  用 C++ 实现了一个 HTTP 服务器，支持对 URL 添加相应的拦截处理函数。
 * [ryeyao/GPS_With_Friends](http://github.com/ryeyao/GPS_With_Friends) : [GPS With Friends](https://github.com/ryeyao/GPS_With_Friends)
     - 《微软软件实现技术》课程最佳团队，最佳项目。项目实现了基于微软云平台 Azure 的好友定位 App。本人负责系统架构，数据库设计及云端服务实现。
