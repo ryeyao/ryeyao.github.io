@@ -1,0 +1,23 @@
+<body>
+    <script type="text/javascript">
+        var div = document.createElement("div");
+        div.textContent = 'Blog is temporarily unavailable. Redirecting to my resume page... ';
+        var seconds = document.createElement("a");
+        div.appendChild(seconds);
+        document.body.appendChild(div);
+
+        var show_time_func = function () {
+            var count = 1;
+            return function () {
+                seconds.textContent = count;
+                count++;
+            }
+        };
+
+        var show_time = show_time_func();
+        show_time();
+        setTimeout(show_time, 1000);
+        setTimeout(show_time, 2000);
+        setTimeout(function () {window.location.replace('ryeyao.tk/resume');}, 3000);
+    </script>
+</body>
